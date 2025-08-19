@@ -1,0 +1,4 @@
+
+Containers generated with thickness 0.01/0.03/0.05 using the solidify modifier (negative values, so solidify outside)
+
+The one initially used was Box2, with 0.03

@@ -1,0 +1,5 @@
+*.blend1
+assets/*
+!assets/containers/
+*.pyc
+.DS_Store
